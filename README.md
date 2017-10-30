@@ -1,4 +1,8 @@
 # Backbone Scrabble / Testing JavaScript with Jasmine
+An assignment completed during my time as a student at Ada Developers Academy.
+
+Assignment Instructions
+---
 
 ## Introduction
 
